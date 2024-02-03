@@ -10,7 +10,7 @@
 Я убежден, что в мире программирования нет предела для творчества, и каждый новый проект - это возможность расширить горизонты своего мышления. Надеюсь, что в будущем смогу внести свой вклад в инновации и сделать мир лучше с помощью технологий.
 
 <p align="center">
- <img width="800" src="assets/github-snake.svg" alt="snake"/>
+ <img width="800" src="github-snake.svg" alt="snake"/>
 </p>
 
 - 👨‍💻 Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/agaapoov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:zakhryapand@gmail.com)

@@ -17,17 +17,34 @@
 
 ---
 
-###  <img src="https://camo.githubusercontent.com/89cee19ca62c04c2858e6f227dd3d51ee3e4835978beb71f079a00b26c2b4046/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" width="30px">Технологии:
+<br/>  
 
-<div>
-  <img src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" title="python" alt="python" width="40" height="40"/>&nbsp
-  <img src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" title="aws" alt="aws" width="40" height="40"/>&nbsp
-  <img src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" title="django" alt="django" width="40" height="40"/>&nbsp
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp
-  <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/afa05625904238dbcd297b5384c65e0a09e439ac/public/icons/skills/html5-colored.svg" title="html" alt="html" width="40" height="40"/>&nbsp
-</div>
+
+###  <img src="https://camo.githubusercontent.com/89cee19ca62c04c2858e6f227dd3d51ee3e4835978beb71f079a00b26c2b4046/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" width="30px">Технологии:
+<table><tr><td valign="top" width="33%">
+
+### Frontend  
+<div align="center">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+in progress 😃
+</div></td><td valign="top" width="33%">
+
+### Backend  
+<div align="center">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" alt="djago" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="postgresql" height="50" />  
+</div></td><td valign="top" width="33%">
+
+### DevOps  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
+</div></td></tr></table>  
+
+<br/>  
 
 ---
 ### 💻 Codewars:
@@ -46,3 +63,4 @@
     </td>
   </tr>
 </table>
+

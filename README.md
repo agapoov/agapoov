@@ -13,7 +13,7 @@
  <img width="800" src="github-snake.svg" alt="snake"/>
 </p>
 
-- 👨‍💻 Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/agaapoov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:zakhryapand@gmail.com)
+- 👨‍💻 Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/agaapov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:zakhryapand@gmail.com)
 
 ---
 

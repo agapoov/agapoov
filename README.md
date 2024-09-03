@@ -14,7 +14,7 @@
 </p>
 
 - 👨‍💻 Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/agaapov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:zakhryapand@gmail.com)
-
+[![wakatime](https://wakatime.com/badge/user/cafbe056-ab7c-462d-81ee-b05d7952fb6b.svg)](https://wakatime.com/@cafbe056-ab7c-462d-81ee-b05d7952fb6b)
 ---
 
 <br/>  

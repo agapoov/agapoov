@@ -16,7 +16,7 @@ I believe that in the world of programming, there are no limits to creativity, a
 
 <br/>  
 
-###  <img src="https://camo.githubusercontent.com/89cee19ca62c04c2858e6f227dd3d51ee3e4835978beb71f079a00b26c2b4046/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" width="30px">Technologies:
+### 🛠️ Technologies:
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  

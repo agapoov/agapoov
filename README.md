@@ -1,7 +1,7 @@
 
 
 ### About me:
-I am a junior web developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. I am 17 years old, and currently, I am a third-year student at Belgorod State Agricultural University. My passion for programming started in 2023, and since then, I have been continuously diving deeper into the exciting world of code. 
+I am a web developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. I am 17 years old, and currently, I am a third-year student at Belgorod State Agricultural University. My passion for programming started in 2023, and since then, I have been continuously diving deeper into the exciting world of code. 
 
 I believe that in the world of programming, there are no limits to creativity, and each new project is an opportunity to expand the horizons of your thinking. [![wakatime](https://wakatime.com/badge/user/cafbe056-ab7c-462d-81ee-b05d7952fb6b.svg)](https://wakatime.com/@cafbe056-ab7c-462d-81ee-b05d7952fb6b)
 

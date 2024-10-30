@@ -9,7 +9,7 @@ I believe that in the world of programming, there are no limits to creativity, a
  <img width="800" src="github-snake.svg" alt="snake"/>
 </p>
 
-- I'm currently learning: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+- I'm currently learning: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.svg" alt="FastAPI Logo" width="125"/>
 
 - 👨‍💻 How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/agaapov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:zakhryapand@gmail.com)
 

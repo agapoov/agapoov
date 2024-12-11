@@ -1,7 +1,7 @@
 
 
 ### About me:
-I am a web developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. I am a third-year student at Belgorod State Agricultural University. Recent years have been associated with everything where the word Python appears
+I am a Software Engineer and a third-year student at Belgorod State Agricultural University. Recent years have been associated with everything where the word Python appears.
 
 I believe that in the world of programming, there are no limits to creativity, and each new project is an opportunity to expand the horizons of your thinking. [![wakatime](https://wakatime.com/badge/user/cafbe056-ab7c-462d-81ee-b05d7952fb6b.svg)](https://wakatime.com/@cafbe056-ab7c-462d-81ee-b05d7952fb6b)
 

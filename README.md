@@ -1,64 +1,57 @@
-
-
-### About me:
-I am a Software Engineer and a third-year student at Belgorod State Agricultural University. Recent years have been associated with everything where the word Python appears.
-
-I believe that in the world of programming, there are no limits to creativity, and each new project is an opportunity to expand the horizons of your thinking. [![wakatime](https://wakatime.com/badge/user/cafbe056-ab7c-462d-81ee-b05d7952fb6b.svg)](https://wakatime.com/@cafbe056-ab7c-462d-81ee-b05d7952fb6b)
-
-<p align="center">
- <img width="800" src="github-snake.svg" alt="snake"/>
-</p>
-
-- I'm currently learning: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.svg" alt="FastAPI Logo" width="125"/>
-
-- 👨‍💻 How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/agaapov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:zakhryapand@gmail.com)
-
-
----
-
-<br/>  
-
-### 🛠️ Technologies:
-<table><tr><td valign="top" width="33%">
-
-### Frontend  
 <div align="center">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-</div></td><td valign="top" width="33%">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="480" />
+</div>
 
-### Backend  
+[![wakatime](https://wakatime.com/badge/user/cafbe056-ab7c-462d-81ee-b05d7952fb6b.svg)](https://wakatime.com/@cafbe056-ab7c-462d-81ee-b05d7952fb6b)
+
+<!--<p align="center">-->
+<!-- <img width="800" src="github-snake.svg" alt="snake"/>-->
+<!--</p>-->
+
+### 👨‍💻 About Me:
+- 🎓 3rd year student at Belgorod State Agricultural University
+- 💻 Python Backend Developer from <a href="https://www.gifki.org/cat-flag-rossii-863.htm"><img src="https://www.gifki.org/data/media/863/flag-rossii-animatsionnaya-kartinka-0001.gif" width="20" border="0" alt="flag-rossii-animatsionnaya-kartinka-0001" /></a>
+- 🌱 Currently learning:
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"/>
+  - <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.svg" alt="FastAPI" width="60"/>
+
+### 🛠️ Tech Stack:
+<div align="left">
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/DRF-FF1709?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django_Channels-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  
+  <!-- Infrastructure -->
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</div>
+
+### 📊 GitHub Statistics:
 <div align="center">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://www.svgrepo.com/show/303460/redis-logo.svg" alt="Redis" height="50" />
-<img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" alt="django" height="50" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="postgresql" height="50" />  
-</div></td><td valign="top" width="33%">
+  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=agapoov&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=agapoov&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
-### DevOps  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
-</div></td></tr></table>  
-
-<br/>  
-
----
-### 💻 Codewars:
-
+### 🏆 Codewars:
 ![codewars](https://www.codewars.com/users/ZakhryapaNikita/badges/large)
 
-### ⚙️ GitHub Stats:
-
-<table>
-  <tr>
-    <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=agapoov&theme=dark&background=000000" alt="webDev's Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=agapoov&layout=compact&theme=vision-friendly-dark" />
-    </td>
-  </tr>
-</table>
-
+### 📫 How to reach me:
+<div align="left">
+  <a href="https://t.me/agaapov">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="mailto:zakhryapand@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>

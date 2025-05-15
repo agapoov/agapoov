@@ -8,13 +8,6 @@
 <!-- <img width="800" src="github-snake.svg" alt="snake"/>-->
 <!--</p>-->
 
-### 👨‍💻 About Me:
-- 🎓 3rd year student at Belgorod State Agricultural University
-- 💻 Python Backend Developer from <a href="https://www.gifki.org/cat-flag-rossii-863.htm"><img src="https://www.gifki.org/data/media/863/flag-rossii-animatsionnaya-kartinka-0001.gif" width="20" border="0" alt="flag-rossii-animatsionnaya-kartinka-0001" /></a>
-- 🌱 Currently learning:
-  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"/>
-  - <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.svg" alt="FastAPI" width="60"/>
-
 ### 🛠️ Tech Stack:
 <div align="left">
   <!-- Backend -->
